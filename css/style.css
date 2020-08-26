@@ -1,0 +1,17 @@
+.logo{
+    height:100%;
+}
+#primary-nav{
+    height:90px;
+}
+#courses{
+    font:20pt "Playfair Display"; 
+    background-color:rgba(0,180,180,0.4);
+}
+form{
+    float:right;
+}
+@media only screen and (max-width: 600px) {
+    body {
+    }
+  }
